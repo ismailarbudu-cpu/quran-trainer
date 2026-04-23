@@ -2,7 +2,7 @@
   "name": "Hifz Trainer",
   "short_name": "Hifz",
   "description": "Тренажёр для заучивания Курана",
-  "start_url": "quran_trainer_2.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#1b5e20",
   "theme_color": "#1b5e20",
