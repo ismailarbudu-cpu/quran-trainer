@@ -1,6 +1,6 @@
 const CACHE_NAME = 'hifz-trainer-v1';
 const ASSETS = [
-  'quran_trainer_2.html',
+  'index.html',
   'sw.js',
   'manifest.json',
   'icon-192.png',
